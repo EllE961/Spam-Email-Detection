@@ -11,7 +11,7 @@ Generates various plots for data insights.
 ![Confusion Matrix](images/confusion_matrix.png)
 ![Top Features for Spam](images/top_features_spam.png)
 
-## Example Results
+## Results
 precision    recall  f1-score   support
 
 ham  0.96  1.00  0.98   966
